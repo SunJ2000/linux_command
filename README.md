@@ -4,9 +4,9 @@
 ### 1. ls
 只支持 -l,-h,-t,-a,-r命令，不支持-R；
 
-###2. mkdir
+### 2. mkdir
 支持 -p；
 
-###3. kill
+### 3. kill
 
-###4. ping
+### 4. ping

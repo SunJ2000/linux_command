@@ -12,3 +12,6 @@
 
 ### 4. cat
 支持 -s -b -n;
+
+### 5. mv
+支持 -i -f -n；使用rename函数完成，而不是link/unlink；

@@ -15,3 +15,6 @@
 
 ### 5. mv
 支持 -i -f -n；使用rename函数完成，而不是link/unlink；
+
+### 6. tree
+支持-a -d -s -f
